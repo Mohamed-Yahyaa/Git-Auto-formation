@@ -4,3 +4,4 @@
 ## git branch
 ## git checkout
 ## git commit -m "the start"
+## git config --list
